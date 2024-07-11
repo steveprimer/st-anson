@@ -1,4 +1,4 @@
-package week0;
+package week0.day0;
 
 class day0 {
 
